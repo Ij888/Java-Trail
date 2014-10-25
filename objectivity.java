@@ -14,7 +14,7 @@ public class objectiveBicycle {
         speed = startSpeed;
     }
         
-    // the Bicycle class has four methods
+    // the objectiveBicycle class has four methods
     public void setCadence(int newValue) {
         cadence = newValue;
     }
@@ -34,7 +34,7 @@ public class objectiveBicycle {
 }
 //A class declaration for a MountainBike class that is a subclass of Bicycle might //look like this:
 
-public class MountainBike extends Bicycle {
+public class MountainBike extends objectiveBicycle {
         
     // the MountainBike subclass has one field
     public int seatHeight;
@@ -52,4 +52,4 @@ public class MountainBike extends Bicycle {
     }   
 
 }
-MountainBike inherits all the fields and methods of Bicycle and adds the field seatHeight and a method to set it (mountain bikes have seats that can be moved up and down as the terrain demands).
+//MountainBike inherits all the fields and methods of Bicycle and adds the field seatHeight and a method to set it (mountain bikes have seats that can be moved up and down as the terrain demands).
