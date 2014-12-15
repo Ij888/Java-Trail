@@ -7,7 +7,7 @@ public class objectiveBicycle {
     public int gear;
     public int speed;
         
-    // the Bicycle class has one constructor
+    // the objectiveBicycle class has one constructor
     public Bicycle(int startCadence, int startSpeed, int startGear) {
         gear = startGear;
         cadence = startCadence;
@@ -32,7 +32,7 @@ public class objectiveBicycle {
     }
         
 }
-//A class declaration for a MountainBike class that is a subclass of Bicycle might //look like this:
+//A class declaration for a MountainBike class that is a /subclass of Bicycle might //look like this:
 
 public class MountainBike extends objectiveBicycle {
         
