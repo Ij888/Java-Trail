@@ -1,6 +1,6 @@
 //java file to link other class
 class classOne{
-    public void simpleMessgae(){
+    public void simpleMessge(){
     System.println("streamBuffer2223");
     }
 }
