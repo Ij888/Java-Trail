@@ -1,4 +1,4 @@
-class Arithmetic{
+class Arithmetics{
     public static void main(String[]main){
         int sum1, sum2, sum;
         sum1 = 3;
