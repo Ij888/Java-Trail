@@ -7,8 +7,8 @@ class Weapons{
     }
 }
 
-public class App{
-    public static void main(String[]args){
+ class App{
+    public static void main(String[] args){
         Weapons mark5 = new Weapons();
     }
 }
