@@ -3,11 +3,12 @@ class Weapons{
     int rounds = 500;
     
     void shoot(){
-        System.out.println("kapoww!")
+        System.out.println("kapoww!");
     }
 }
 
 public class App{
     public static void main(String[]args){
-        Weapon mark5 = new Weapon();
+        Weapons mark5 = new Weapons();
     }
+}
