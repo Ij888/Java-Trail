@@ -1,6 +1,6 @@
 class Weapons{
-    String name;// = "firearm";
-    int rounds;// = 500;
+    //String name;// = "firearm";
+   // int rounds;// = 500;
     
     void shoot(){
         System.out.println("kapoww!");
