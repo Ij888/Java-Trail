@@ -1,5 +1,5 @@
 class Weapons{
-    String name = firearm;
+    String name = "firearm";
     int rounds = 500;
     
     void shoot(){
