@@ -4,8 +4,9 @@ class Gray {
     }
 }
 
+class App{
 	public static void main(String[] args) {
-		Robot sam = new Robot();
+		Gray sam = new Gray();
             sam.speak();
 		
 	}
