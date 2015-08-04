@@ -1,5 +1,5 @@
 class Gray {
-    public void speak() {
+ void speak() {
         System.out.println("fraise");
     }
 }
