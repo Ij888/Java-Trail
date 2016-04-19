@@ -1,6 +1,6 @@
 public class CMDterm{
-	static public void main(string[]argv){
+	public static void main(String[]argv){
 		int r, u, s, t;
-		System.out.println();
+		System.out.println("RUST");
 	}
 }
