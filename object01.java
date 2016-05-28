@@ -2,15 +2,15 @@ class Asset{
 	String name;
 	String affiliation;
 	int id;
+	
+	void sound(){
+	System.out.println("ShoutOut");
+	}
 }
 
 class Person{
 	String name;
 	int age;
-}
-
-void sound(){
-	System.out.println("ShoutOut");
 }
 
 
