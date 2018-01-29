@@ -1,1 +1,1 @@
-//call methods in Machine.jave from here
+//call methods in Machine.java from here
